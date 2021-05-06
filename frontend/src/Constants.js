@@ -3,6 +3,7 @@ export const COLORS = {
   overlay1: "#FFFFFF",
   text1: "#000000",
   text2: "#FFFFFF",
+  text3: "#EEEEEE",
   icon1: "",
   main1: "#177E89",
   main2: "#084C61",
